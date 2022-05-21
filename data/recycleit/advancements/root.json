@@ -1,0 +1,23 @@
+{
+  "display": {
+    "frame": "task",
+    "icon": {
+      "item": "minecraft:emerald"
+    },
+    "title": [
+      "Recycle It!"
+    ],
+    "description": [
+      "Tear down your old items and use them again!"
+    ],
+    "announce_to_chat": false,
+    "show_toast": false,
+    "hidden": false
+  },
+  "parent": "global:satyrnidae/author",
+  "criteria": {
+    "criteria": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

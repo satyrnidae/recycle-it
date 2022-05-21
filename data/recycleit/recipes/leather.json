@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "group": "leather",
+  "ingredient": {
+    "tag": "recycleit:leather_recyclable"
+  },
+  "result": "minecraft:leather",
+  "experience": 0.1,
+  "cookingtime": 200
+}

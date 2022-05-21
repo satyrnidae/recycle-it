@@ -1,0 +1,32 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:iron_bars",
+    "minecraft:chain",
+    "minecraft:anvil",
+    "minecraft:damaged_anvil",
+    "minecraft:chipped_anvil",
+    "minecraft:detector_rail",
+    "minecraft:rail",
+    "minecraft:activator_rail",
+    "minecraft:iron_door",
+    "minecraft:iron_trapdoor",
+    "minecraft:minecart",
+    "minecraft:furnace_minecart",
+    "minecraft:chest_minecart",
+    "minecraft:tnt_minecart",
+    "minecraft:hopper_minecart",
+    "minecraft:bucket",
+    "minecraft:iron_axe",
+    "minecraft:iron_boots",
+    "minecraft:iron_chestplate",
+    "minecraft:iron_helmet",
+    "minecraft:iron_hoe",
+    "minecraft:iron_horse_armor",
+    "minecraft:iron_leggings",
+    "minecraft:iron_pickaxe",
+    "minecraft:iron_shovel",
+    "minecraft:iron_sword",
+    "minecraft:compass"
+  ]
+}

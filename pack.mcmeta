@@ -1,0 +1,27 @@
+{
+  "pack": {
+    "pack_format": 9,
+    "description": "Recycle It!"
+  },
+  "meta": {
+    "author": "Isabel Maskrey (saturniidae)",
+    "website": "https://satyrn.dev",
+    "version": "1.1.4",
+    "baseArchiveName": "recycle-it",
+    "changelog": {
+      "1.1.4": [
+        "Remove boats from charcoal recyclable blocks tag"
+      ],
+      "1.1.3": [
+        "Add wooden pickaxe to charcoal recyclable items"
+      ],
+      "1.1.1": [
+        "Add various wooden workstations to charcoal recycling list"
+      ],
+      "1.1.0": [
+        "Changed stick recyclable items into charcoal recyclable items.",
+        "Added wooden blocks and boats to charcoal recyclable items"
+      ]
+    }
+  }
+}
