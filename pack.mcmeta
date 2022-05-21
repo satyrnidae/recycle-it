@@ -6,9 +6,12 @@
   "meta": {
     "author": "Isabel Maskrey (saturniidae)",
     "website": "https://satyrn.dev",
-    "version": "1.1.4",
+    "version": "1.1.5",
     "baseArchiveName": "recycle-it",
     "changelog": {
+      "1.1.5": [
+        "Fix smelting and blasting recipes to produce 8 items per 1 coal as intended."
+      ],
       "1.1.4": [
         "Remove boats from charcoal recyclable blocks tag"
       ],
