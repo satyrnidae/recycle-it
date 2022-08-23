@@ -4,6 +4,7 @@
     "minecraft:iron_bars",
     "minecraft:chain",
     "minecraft:anvil",
+    "minecraft:crossbow",
     "minecraft:damaged_anvil",
     "minecraft:chipped_anvil",
     "minecraft:detector_rail",
@@ -27,6 +28,7 @@
     "minecraft:iron_pickaxe",
     "minecraft:iron_shovel",
     "minecraft:iron_sword",
-    "minecraft:compass"
+    "minecraft:compass",
+    "minecraft:shield"
   ]
 }

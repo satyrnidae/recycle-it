@@ -1,14 +1,34 @@
 {
   "pack": {
-    "pack_format": 9,
+    "pack_format": 10,
     "description": "Recycle It!"
   },
   "meta": {
     "author": "Isabel Maskrey (saturniidae)",
     "website": "https://satyrn.dev",
-    "version": "1.1.5",
+    "version": "1.2.2",
     "baseArchiveName": "recycle-it",
     "changelog": {
+      "1.2.2": [
+        "Crossbows are now recyclable into iron ingots."
+      ],
+      "1.2.1": [
+        "Corrected an oversight; Iron Bars are now more expensive so that they remain recyclable."
+      ],
+      "1.2.0": [
+        "Fix smelting cookingtime",
+        "Add prismarine from trident",
+        "Update to 1.19"
+      ],
+      "1.1.8": [
+        "Add Shields to iron recyclable."
+      ],
+      "1.1.7": [
+        "Icon changed to oak sapling."
+      ],
+      "1.1.6": [
+        "Recycle tridents into prismarine shards"
+      ],
       "1.1.5": [
         "Fix smelting and blasting recipes to produce 8 items per 1 coal as intended."
       ],
